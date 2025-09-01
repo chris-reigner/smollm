@@ -6,3 +6,6 @@ The supervised fine-tuning (SFT) and PEFT techniques requires a task-specific da
 
 Hugging Face is open-souring a whole family of models: text, vision, multimodal, tools as well as examples on how to apply these models on real datasets!
 
+We focus first on a summarizing task with the smolLM2 series. Find more information here: https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9
+
+Next steps: Finalize evaluation and move to smolLM3 series (I recommend the very good blog post from HF: https://huggingface.co/blog/smollm3)
